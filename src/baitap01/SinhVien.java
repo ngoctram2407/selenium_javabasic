@@ -21,8 +21,6 @@ public class SinhVien {
         SinhVien bienLocal = new SinhVien();
         bienLocal.sayHello();
 
-
-
         System.out.println("Giá trị của firstName là: " + bienLocal.firstName);
         System.out.println("Giá trị của lastName là: " + bienLocal.lastName);
 
